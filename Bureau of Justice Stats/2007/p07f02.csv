@@ -1,0 +1,64 @@
+Bureau of Justice Statistics,
+Filename: p07f02.csv,
+"Figure 2. Change in imprisonment rates, 2000-2007",
+Report title: Prisoners in 2007 NCJ 224280,
+"Data source: National Prisoner Statistics, 1b",
+"Authors: Heather C. West and William J. Sabol, Ph.D.",
+Refer questions to: askbjs@usdoj.gov   202-307-0765,
+"Date of version: December 2, 2008",
+
+"Figure 2. Change in imprisonment rates, 2000-2007",
+Jurisdiction,"Change in imprisonment rate per 100,000 residents"
+U.S. total*,28
+Kentucky,139
+West Virginia,123
+Alaska,106
+Indiana,91
+Florida,74
+Virginia,68
+Alabama,67
+Louisiana,65
+Colorado,63
+North Dakota,62
+South Dakota,60
+Pennsylvania,57
+Idaho,53
+Minnesota,53
+Oregon,53
+Wyoming,46
+Mississippi,46
+Arkansas,44
+Vermont,42
+Arizona,39
+New Hampshire,38
+Rhode Island,38
+Ohio,36
+Hawaii,36
+New Mexico,34
+Maine,29
+Tennessee,25
+Washington,22
+Wisconsin,21
+Michigan,19
+Nebraska,15
+Iowa,15
+Federal,14
+North Carolina,14
+Connecticut,13
+Georgia,13
+Missouri,11
+Montana,7
+Kansas,0
+California,-3
+Massachusetts,-6
+South Carolina,-8
+Nevada,-9
+Utah,-14
+Illinois,-20
+Oklahoma,-20
+Maryland,-25
+Delaware,-31
+New Jersey,-54
+Texas,-61
+New York,-62
+"*Illinois, Nevada, and Maine did not provide data for 2007. The U.S., Illinois, Nevada, and Maine imprisonment rates are estimated.  See Methodology.",

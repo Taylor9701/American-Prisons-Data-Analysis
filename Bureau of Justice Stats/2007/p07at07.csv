@@ -1,0 +1,28 @@
+Bureau of Justice Statistics,,,,,,,,
+Filename: p07at07.csv,,,,,,,,
+"Appendix table 7. Estimated number of sentenced prisoners under state or federal jurisdiction, by gender, race, Hispanic origin, and age, December 31, 2007",,,,,,,,
+Report title: Prisoners in 2007 NCJ 224280,,,,,,,,
+"Data source: National Prisoner Statistics, 1b",,,,,,,,
+"Authors: Heather C. West and William J. Sabol, Ph.D.",,,,,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,,,,
+"Date of version: December 2, 2008",,,,,,,,
+
+"Appendix table 7. Estimated number of sentenced prisoners under state or federal jurisdiction, by gender, race, Hispanic origin, and age, December 31, 2007",,,,,,,,
+,Male/a,,,,Female/a,,,
+Age,Total/b,White/c,Black/c,Hispanic,Total/b,White/c,Black/c,Hispanic
+Total,"1,427,300","471,400","556,900","301,200","105,500","50,500","29,300","17,600"
+18-19,"23,700","6,400","10,200","5,000","1,000",400,300,200
+20-24,"207,900","58,800","84,200","49,600","11,600","5,400","3,000","2,300"
+25-29,"246,000","65,300","102,100","61,500","16,000","7,300","4,400","3,200"
+30-34,"237,200","69,800","96,200","55,300","18,400","8,900","5,000","3,200"
+35-39,"225,000","74,200","89,200","46,600","20,900","9,900","6,000","3,300"
+40-44,"201,700","74,800","76,700","36,100","18,100","8,700","5,200","2,700"
+45-49,"135,200","52,400","50,500","22,800","10,700","5,200","3,100","1,500"
+50-54,"75,000","31,000","26,600","12,500","5,000","2,400","1,400",700
+55-59,"38,600","18,600","11,700","6,200","2,100","1,200",500,300
+60-64,"18,900","10,500","4,600","2,900",900,600,200,100
+65 and older,"15,500","9,000","3,600","2,200",600,400,100,100
+"Note: State sentenced prisoner counts are based on estimates by gender, race, Hispanic origin, and age from the 2005 Survey of Inmates in State Correctional Facilities and updated form jurisdiction counts by gender at yearend 2007. Federal sentenced prisoner counts are based on data from the BJS Federal Justice Statistics Program from September 30, 2007 and updated from jurisdiction counts at yearend 2007.",,,,,,,,
+a/Sentenced prisoners are limited to those sentenced to more than 1 year.,,,,,,,,
+"b/Total includes American Indians, Alaska Natives, Asians, Native Hawaiians, other Pacific Islanders, and persons identifying two or more races.",,,,,,,,
+c/Excludes Hispanics and persons identifying two or more races.,,,,,,,,

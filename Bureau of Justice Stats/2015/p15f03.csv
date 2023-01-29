@@ -1,0 +1,39 @@
+Bureau of Justice Statistics,
+File name: p15f03.csv,
+"Figure 3. Prisoners under the jurisdiction of state or federal correctional authorities, by sex, December 31, 2005–2015",
+"Report title: Prisoners in 2015,  NCJ 250229",
+"Data source: Bureau of Justice Statistics, National Prisoner Statistics, 2015",
+"Author: E. Ann Carson, Ph.D., BJS Statistician,  Elizabeth Anderson, BJS Intern",
+Refer questions to: askbjs@usdoj.gov (202) 307-0765,
+Date of version: 12/29/2016,
+,
+"Figure 3. Prisoners under the jurisdiction of state or federal correctional authorities, by sex, December 31, 2005–2015",
+,
+Year,Number of males prisoners
+2005,"1,418,390"
+2006,"1,456,370"
+2007,"1,482,520"
+2008,"1,493,670"
+2009,"1,502,000"
+2010,"1,500,940"
+2011,"1,487,560"
+2012,"1,461,630"
+2013,"1,465,590"
+2014,"1,449,290"
+2015,"1,415,300"
+,
+Year,Number of females prisoners
+2005,"107,518"
+2006,112308
+2007,114311
+2008,114612
+2009,"113,485"
+2010,"112,867"
+2011,"111,407"
+2012,"108,772"
+2013,"111,358"
+2014,"113,028"
+2015,"111,495"
+,
+"Note: The scale for the number of prisoners does not start at zero to show the subtle change over time. Jurisdiction refers to the legal authority of state or federal correctional officials over a prisoner, regardless of where the prisoner is held. Federal data include prisoners held in nonsecure, privately operated community corrections facilities and juveniles held in contract facilities.",
+"Source: Bureau of Justice Statistics, National Prisoner Statistics, 2005–2015.",

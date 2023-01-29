@@ -1,0 +1,31 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,,,,,,,
+File name: p15t05.csv,,,,,,,,,,,,,,,,,,,,,,
+"Table 5. Imprisonment rate of sentenced prisoners under the jurisdiction of state or federal correctional authorities, by jurisdiction and demographic characteristics, December 31, 2005–2015",,,,,,,,,,,,,,,,,,,,,,
+"Report title: Prisoners in 2015,  NCJ 250229",,,,,,,,,,,,,,,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Prisoner Statistics, 2005–2015; Federal Justice Statistics Program, 2015; National Corrections Reporting Program, 2014; Survey of Inmates in State and Federal Correctional Facilities, 2004; and U.S. Census Bureau, postcensal resident population estimates for January 1 of the following calendar year.",,,,,,,,,,,,,,,,,,,,,,
+"Author: E. Ann Carson, Ph.D., BJS Statistician,  Elizabeth Anderson, BJS Intern",,,,,,,,,,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,,,,,,,,,,,,,,,,,
+Date of version: 12/29/2016,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+"Table 5. Imprisonment rate of sentenced prisoners under the jurisdiction of state or federal correctional authorities, by jurisdiction and demographic characteristics, December 31, 2005–2015",,,,,,,,,,,,,,,,,,,,,,
+,,"Per 100,000 U.S. residents of all ages",,,,,,,,,,"Per 100,000 U.S. residents age 18 or older",,,,,,,,,,
+Year,,Total,,Federal/a,,State,,Male,,Female,,Total,,Male,,Female,,White/b,,Black/b,,Hispanic
+2005,,492,,56,,436,,932,,65,,655,,"1,257",,86,,319,,"2,228",,"1,084"
+2006,,501,,58,,443,,948,,68,,666,,"1,275",,89,,325,,"2,227",,"1,107"
+2007,,506,,59,,447,,955,,69,,670,,"1,282",,90,,324,,"2,232",,"1,123"
+2008,,506,,60,,447,,956,,69,,669,,"1,279",,90,,327,,"2,216",,"1,085"
+2009,,504,,61,,443,,952,,67,,665,,"1,271",,88,,325,,"2,183",,"1,078"
+2010,,500,,61,,439,,948,,66,,656,,"1,260",,86,,329,,"2,128",,"1,025"
+2011,,492,,63,,429,,932,,65,,644,,"1,236",,84,,326,,"2,058",,996
+2012,,480,,62,,417,,909,,63,,626,,"1,201",,82,,315,,"1,920",,926
+2013,,478,,61,,417,,905,,65,,623,,"1,192",,83,,317,,"1,882",,898
+2014,,471,,60,,411,,889,,65,,611,,"1,168",,84,,317,,"1,824",,860
+2015/c,,458,,55,,402,,863,,64,,593,,"1,131",,82,,312,,"1,745",,820
+Percent change,,,,,,,,,,,,,,,,,,,,,,
+,"Average annual, 2004–2014",0,%,1,%,-1,%,-1,%,0,%,-0.7,%,-0.7,%,-0.3,%,-0.1,%,-2,%,-2.3
+,2014–2015,-3,,-7.3,,-2,,-2.9,,-1.8,,-3,,-3.1,,-2,,-1.6,%,-4.3,%,-4.7
+"Note: Jurisdiction refers to the legal authority of state or federal correctional officials over a prisoner, regardless of where the prisoner is held. Counts are based on prisoners with sentences of more than 1 year.",,,,,,,,,,,,,,,,,,,,,,
+"a/Includes prisoners held in nonsecure, privately operated community corrections facilities and juveniles held in contract facilities.",,,,,,,,,,,,,,,,,,,,,,
+b/Excludes persons of Hispanic or Latino origin and persons of two or more races.,,,,,,,,,,,,,,,,,,,,,,
+"c/Total and state estimates include imputed counts for Nevada and Oregon, which did not submit 2015 data to National Prisoner Statistics. See Methodology.",,,,,,,,,,,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics, 2005–2015; Federal Justice Statistics Program, 2015; National Corrections Reporting Program, 2014; Survey of Inmates in State and Federal Correctional Facilities, 2004; and U.S. Census Bureau, postcensal resident population estimates for January 1 of the following calendar year.",,,,,,,,,,,,,,,,,,,,,,

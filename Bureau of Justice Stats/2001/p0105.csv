@@ -1,0 +1,84 @@
+"Bureau of Justice Statistics",,,,,,,,,,,
+"Filename:  p0105.csv",,,,,,,,,,,
+"Table #5:  Change in the number of sentenced prisoners under the jurisdiction of State or Federal correctional authorities, 1995-2001",,,,,,,,,,,
+"Report title:  Prisoners in 2001  NCJ 195189",,,,,,,,,,,
+"Data source:  National Prisoner Statistics",,,,,,,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov  202-307-0765",,,,,,,,,,,
+"Contact:  Allen Beck or Paige Harrison",,,,,,,,,,,
+"Date of version:  7/5/02",,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Table 5.  Change in the number of sentenced prisoners under the jurisdiction of State or Federal correctional authorities, 1995-2001",,,,,,,,,,,
+,,,,,,,,,,,
+,"                 1995-2001",,,,"Average annual percent change/a",,,,,,
+"Region and jurisdiction","Population difference",,"Percent change",,,,,,"Inmates with sentences of greater than 1 year",,
+,,,,,,,,,"   1995    ",,"   2001"
+"      U.S. total",259490,,23.9,"%",3.6,"%",,,1085022,,1344512
+,,,,,,,,,,,
+"    Federal",52846,,63.2,"%",8.5,"%",,,83663,,136509
+"    State",206644,,20.6,,3.2,,,,1001359,,1208003
+,,,,,,,,,,,
+"  Northeast",8609,,5.6,"%",0.9,"%",,,155030,,163639
+"    Connecticut",2857,,27.4,,4.1,,,,10419,,13276
+"    Maine",315,,23.8,,3.6,,,,1326,,1641
+"    Massachusetts/a,b",(1069),,-10.3,,-1.8,,,,10427,,9358
+"    New Hampshire",377,,18.7,,2.9,,,,2015,,2392
+"    New Jersey",1076,,4.0,,0.7,,,,27066,,28142
+"    New York",(952),,-1.4,,-0.2,,,,68486,,67534
+"    Pennsylvania",5647,,17.4,,2.7,,,,32410,,38057
+"    Rhode Island",93,,5.1,,0.8,,,,1833,,1926
+"    Vermont",265,,25.3,,3.8,,,,1048,,1313
+,,,,,,,,,,,
+"  Midwest",47501,,24.7,"%",3.7,"%",,,192177,,239678
+"    Illinois",6690,,17.8,,2.8,,,,37658,,44348
+"    Indiana/a",4837,,30.1,,4.5,,,,16046,,20883
+"    Iowa",2056,,34.8,,5.1,,,,5906,,7962
+"    Kansas",1523,,21.6,,3.3,,,,7054,,8577
+"    Michigan/a",7737,,18.8,,2.9,,,,41112,,48849
+"    Minnesota",1760,,36.3,,5.3,,,,4846,,6606
+"    Missouri",9602,,50.2,,7.0,,,,19134,,28736
+"    Nebraska",859,,28.6,,4.3,,,,3006,,3865
+"    North Dakota",473,,86.9,,11.0,,,,544,,1017
+"    Ohio",618,,1.4,,0.2,,,,44663,,45281
+"    South Dakota",932,,49.8,,7.0,,,,1871,,2803
+"    Wisconsin",10414,,100.7,,12.3,,,,10337,,20751
+,,,,,,,,,,,
+"  South",93089,,20.8,"%",3.2,"%",,,446491,,539580
+"    Alabama",6008,,29.8,,4.4,,,,20130,,26138
+"    Arkansas",3556,,41.7,,6.0,,,,8520,,12076
+"    Delaware",1020,,33.8,,5.0,,,,3014,,4034
+"    District of Columbia/c",(8247),," -- ",," -- ",,,,9042,,795
+"    Florida",8532,,13.4,,2.1,,,,63866,,72398
+"    Georgia",11736,,34.3,,5.0,,,,34168,,45904
+"    Kentucky",3044,,25.2,,3.8,,,,12060,,15104
+"    Louisiana",10515,,41.7,,6.0,,,,25195,,35710
+"    Maryland",2392,,11.7,,1.9,,,,20450,,22842
+"    Mississippi",8225,,67.1,,8.9,,,,12251,,20476
+"    North Carolina/a",(282),,-1.0,,-0.2,,,,27914,,27632
+"    Oklahoma",4629,,25.5,,3.9,,,,18151,,22780
+"    South Carolina",2591,,13.6,,2.2,,,,19015,,21606
+"    Tennessee",8465,,55.7,,7.7,,,,15206,,23671
+"    Texas",25290,,19.8,,3.1,,,,127766,,153056
+"    Virginia",3934,,14.4,,2.3,,,,27260,,31194
+"    West Virginia",1681,,67.7,,9.0,,,,2483,,4164
+,,,,,,,,,,,
+"  West",57445,,27.7,"%",4.2,"%",,,207661,,265106
+"    Alaska",(122),,-6.0,,-1.0,,,,2042,,1920
+"    Arizona",6172,,30.4,,4.5,,,,20291,,26463
+"    California/a",25550,,19.4,,3.0,,,,131745,,157295
+"    Colorado",6385,,57.7,,7.9,,,,11063,,17448
+"    Hawaii",1080,,41.7,,6.0,,,,2590,,3670
+"    Idaho",2678,,80.5,,10.3,,,,3328,,6006
+"    Montana",1329,,66.5,,8.9,,,,1999,,3328
+"    Nevada",2488,,32.3,,4.8,,,,7713,,10201
+"    New Mexico",1483,,37.8,,5.5,,,,3925,,5408
+"    Oregon",4898,,75.2,,9.8,,,,6515,,11413
+"    Utah",1803,,52.3,,7.3,,,,3447,,5250
+"    Washington",3412,,29.4,,4.4,,,,11608,,15020
+"    Wyoming/a",289,,20.7,,3.2,,,,1395,,1684
+,,,,,,,,,,,
+,,,,,"                                      ",,,,,,
+" --Not calculated, because of changes in reporting procedures.",,,,,,,,,,,
+"a/Growth may be overestimated due to a change in reporting from custody to jurisdiction counts. ",,,,,,,,,,,
+"b/Excludes sentenced inmates held in local jails or houses of corrections.",,,,,,,,,,,
+"c/Responsibility for sentenced felons was transferred to the Federal Bureau of Prisons. ",,,,,,,,,,,

@@ -1,0 +1,19 @@
+Bureau of Justice Statistics,,,
+Filename: p06fig03,,,
+"Figure 3: Number of prisoners under State or Federal jurisdiction held in private facilities, 2000-2006",,,
+Report title: Prisoners in 2006 NCJ 219416,,,
+"Data source: National Prisoner Statistics, 1B",,,
+"Author(s): William J. Sabol, Heather Couture, and Paige M. Harrison",,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,
+Date of version: 11/28/07,,,
+
+"Figure 3. Number of prisoners under State or Federal jurisdiction held in private facilities, 2000-2006",,,
+,Number of inmates in privately-operated facilities,,
+Year,Total,State,Federal
+2000,"90,542","75,018","15,524"
+2001,"91,953","72,702","19,251"
+2002,"93,912","73,638","20,274"
+2003,"95,707","73,842","21,865"
+2004,"98,628","73,860","24,768"
+2005,"107,940","80,387","27,046"
+2006,"113,791","86,065","27,726"
