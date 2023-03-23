@@ -1,0 +1,78 @@
+Bureau of Justice Statistics,,,,,,,,,,
+Filename: p20stt20.csv,,,,,,,,,,
+"Table 20. Non-U.S. citizen prisoners in the custody of publicly or privately operated state or federal prisons, excluding jails, by sex and jurisdiction, December 31, 2020",,,,,,,,,,
+Report title: Prisoners in 2020 – Statistical Tables NCJ 302776,,,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Prisoner Statistics, 2020",,,,,,,,,,
+"Author: E. Ann Carson, Ph.D., BJS Statistician",,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,,,,,
+Date of version: 12/14/2021,,,,,,,,,,
+,,,,,,,,,,
+"Table 20. Non-U.S. citizen prisoners in the custody of publicly or privately operated state or federal prisons, excluding jails, by sex and jurisdiction, December 31, 2020",,,,,,,,,,
+ ,,Non-U.S. citizen prisoners/a,,,Non-U.S. citizen prisoners sentenced to more than 1 year,,,Non-U.S. citizen prisoners sentenced to 1 year or less,,
+Jurisdiction,,Total ,Male,Female,Total ,Male,Female,Total ,Male,Female
+"Federal/b,c,d,e",,"24,013","23,041",972,"22,179","21,268",911,142,138,4
+State,,,,,,,,,,
+,Alabama,/,/,/,/,/,/,/,/,/
+,Alaska/f,/,/,/,/,/,/,/,/,/
+,"Arizona/c,d,e","2,734","2,633",101,"2,713","2,613",100,21,20,1
+,Arkansas,244,237,7,244,237,7,0,0,0
+,California,/,/,/,/,/,/,/,/,/
+,"Colorado/c,d,e","1,178","1,125",53,"1,178","1,125",53,0,0,0
+,Connecticut/f,262,252,10,190,182,8,2,2,0
+,"Delaware/c,f",57,56,1,7,6,1,33,33,0
+,"Florida/c,d","5,050","4,910",140,"5,050","4,910",140,0,0,0
+,"Georgia/c,e","2,345","2,234",111,"2,343","2,232",111,2,2,0
+,Hawaii/f,74,68,6,40,40,0,6,6,0
+,Idaho/e,175,170,5,153,149,4,0,0,0
+,"Illinois/c,d,e","1,147","1,120",27,"1,147","1,120",27,0,0,0
+,"Indiana/c,d,e",486,476,10,486,476,10,0,0,0
+,"Iowa/c,d",179,173,6,177,172,5,0,0,0
+,Kansas/c,302,295,7,302,295,7,0,0,0
+,Kentucky,119,118,1,119,118,1,0,0,0
+,Louisiana,113,112,1,113,112,1,0,0,0
+,"Maine/c,d,e",26,26,0,24,24,0,2,2,0
+,"Maryland/c,d,g",705,690,15,705,690,15,0,0,0
+,Massachusetts/g,769,756,13,723,712,11,0,0,0
+,Michigan/b,371,365,6,371,365,6,0,0,0
+,"Minnesota/c,d,g",467,446,21,467,446,21,0,0,0
+,Mississippi/g,8,8,0,8,8,0,0,0,0
+,"Missouri/c,d,e,h",172,166,6,172,166,6,0,0,0
+,"Montana/c,d,i",17,17,0,17,17,0,0,0,0
+,"Nebraska/e,d,g",235,232,3,234,231,3,1,1,0
+,"Nevada/b,c,d",967,923,44,964,920,44,0,0,0
+,"New Hampshire/b,e",194,165,29,194,165,29,0,0,0
+,"New Jersey/c,d,e",934,917,17,934,917,17,0,0,0
+,"New Mexico/c,e ",123,122,1,122,121,1,1,1,0
+,"New York/c,d","1,554","1,530",24,"1,553","1,529",24,0,0,0
+,"North Carolina/c,j","1,055","1,029",26,"1,020","1,020",0,30,4,26
+,North Dakota,17,17,0,17,17,0,0,0,0
+,"Ohio/c,d,e",428,417,11,428,417,11,0,0,0
+,"Oklahoma/b,c",391,380,11,390,379,11,1,1,0
+,Oregon,/,/,/,/,/,/,/,/,/
+,"Pennsylvania/d,e",419,404,15,419,404,15,0,0,0
+,Rhode Island/f,/,/,/,/,/,/,/,/,/
+,"South Carolina/d,e",370,361,9,369,360,9,1,1,0
+,"South Dakota/b,d",74,71,3,74,71,3,0,0,0
+,"Tennessee/e,k",480,461,19,480,461,19,0,0,0
+,Texas,"7,253","7,090",163,"7,231","7,069",162,22,21,1
+,"Utah/b,d",197,193,4,197,193,4,0,0,0
+,Vermont/f,6,5,1,3,2,1,0,0,0
+,"Virginia/d,e","1,218","1,193",25,"1,218","1,193",25,0,0,0
+,Washington,668,653,15,668,653,15,0,0,0
+,West Virginia,13,13,0,13,13,0,0,0,0
+,"Wisconsin/c,g",452,441,11,440,430,10,8,7,1
+,"Wyoming/c,d,k",53,51,2,53,51,2,0,0,0
+"Note: Use caution when interpreting these statistics. Unless otherwise noted, citizenship status is based on the prisoner’s self-report upon admission to prison and represents counts of prisoners held in the physical custody of state and federal correctional authorities and in private prisons, excluding prisoners held in local jails and prisoners in the custody of other jurisdictions, with the exception of states with an integrated prison and jail system. Some jurisdictions use a prisoner’s reported country of birth to determine current citizenship. For jurisdiction-level information, see Jurisdiction notes on the BJS website. BJS changed the way it measured citizenship for the 2016 reference year, requesting that National Prisoner Statistics (NPS) respondents include all non-U.S. citizens held in the physical custody of state and federal correctional authorities and in private prisons, excluding prisoners held in local jails and prisoners in the custody of other jurisdictions, with the exception of states with an integrated prison and jail system. Data collected after 2015 should not be compared to data for previous years. See Methodology. As of December 31, 2001, sentenced felons from the District of Columbia were the responsibility of the Federal Bureau of Prisons.",,,,,,,,,,
+/Not reported.,,,,,,,,,,
+a/Includes unsentenced prisoners and those of all sentence lengths.,,,,,,,,,,
+b/Jurisdiction does not rely on self-report citizenship data from prisoners.,,,,,,,,,,
+c/Citizenship data were based on law enforcement documents or court documents that accompanied prisoners upon admission.,,,,,,,,,,
+"d/Citizenship data were subject to verification by an external data source (e.g., comparison to official records from U.S. Immigration and Customs Enforcement (ICE) or other relevant government agencies).",,,,,,,,,,
+e/Counts of non-U.S. citizens are based on a jurisdictional count.,,,,,,,,,,
+f/Prisons and jails form one integrated system. Data include total jail and prison populations.,,,,,,,,,,
+"g/Counts of non-U.S. citizens are based on the state’s reported total custody count, which may also include prisoners held in local jails and in other state and federal facilities.",,,,,,,,,,
+h/Counts of non-U.S. citizens reflect the number of prisoners with ICE detainers.,,,,,,,,,,
+"i/Counts of non-U.S. citizens excludes those in privately operated halfway houses, hospitals, and treatment or other special facilities.",,,,,,,,,,
+j/Counts of non-U.S. citizens are estimates.,,,,,,,,,,
+"k/Counts of non-U.S. citizens are based on the state’s reported custody count of prisoners sentenced to more than 1 year under state correctional authority, which may also include prisoners held in local jails and in other state and federal facilities.",,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics, 2020.",,,,,,,,,,

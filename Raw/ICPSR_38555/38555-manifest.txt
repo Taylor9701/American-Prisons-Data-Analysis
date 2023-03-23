@@ -1,0 +1,57 @@
+File Manifest for ICPSR 38555
+
+United States. Bureau of Justice Statistics. National Prisoner Statistics,
+[United States], 1978-2021. ICPSR38555-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2022-12-19.
+http://doi.org/10.3886/ICPSR38555.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38555-descriptioncitation.pdf       -       -         -       2022-12-19  -
+
+    38555-related_literature.txt        -       -         -       daily       -
+
+    38555-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 National Prisoner Statistics, [United States], 1978-2021
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38555-0001-Codebook.pdf             -       -         -       2022-12-19  f74680fd2ef5bb1ed43cab495d2437fb
+
+    38555-0001-Data.dta                 -       2,376     231     2022-12-19  8a0a9ee28e03705fbef1c73183f608ed
+
+    38555-0001-Data.rda                 -       2,376     231     2022-12-19  9078277db7c5557d7305978fc9a08e2c
+
+    38555-0001-Data.sav                 -       2,376     231     2022-12-19  17def17290e39c8530a1263dfa7fdea4
+
+    38555-0001-Data.stc                 -       2,376     231     2022-12-19  495d82f160d1ceb63aa554e815d93338
+
+    38555-0001-Data.tsv                 -       2,376     231     2022-12-19  eb9f5e2d6f1698606be6cde954e721a3
+
+    38555-0001-Data.txt                 949     2,376     231     2022-12-19  325cfbff4fb340d5de725f9fd8f6a538
+
+    38555-0001-Documentation-NPS_Crosswalk_1978_2021.xlsx -       -         -       2022-12-19  cacc7af25789408bc2541e7c7738faf8
+
+    38555-0001-Documentation-notes.zip  -       -         -       2022-12-19  ce15c1d814afb81f8e00fffc828c4f10
+
+    38555-0001-Questionnaire.pdf        -       -         -       2022-12-19  e228d92143a0c93aad1344e465b13d38
+
+    38555-0001-Setup.dct                -       -         -       2022-12-19  5127c6eca6278920618db5bbafd2fce5
+
+    38555-0001-Setup.do                 -       -         -       2022-12-19  3ff4433b2f1e4e3463a4551888dd088a
+
+    38555-0001-Setup.sas                -       -         -       2022-12-19  16606056a623638afb85cc01aa9c7561
+
+    38555-0001-Setup.sps                -       -         -       2022-12-19  c133b719e65aaaa608eb4560cc153d4e
+
+    38555-0001-Supplemental_syntax.do   -       -         -       2022-12-19  b9dd5d97240b7b530db7d9754f44c2e6
+
+    38555-0001-Supplemental_syntax.sas  -       -         -       2022-12-19  0fbed3457e050adb288f39d7d01609e7
+

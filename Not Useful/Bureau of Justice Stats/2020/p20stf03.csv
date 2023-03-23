@@ -1,0 +1,63 @@
+Bureau of Justice Statistics,
+Filename: p20stf03.csv,
+"Figure 3. Change in total prison population, by jurisdiction, 2019–2020",
+Report title: Prisoners in 2020 – Statistical Tables NCJ 302776,
+"Data source: Bureau of Justice Statistics, National Prisoner Statistics, 2019–2020",
+"Author: E. Ann Carson, Ph.D., BJS Statistician",
+Refer questions to: askbjs@usdoj.gov 202-307-0765,
+Date of version: 12/14/2021,
+,
+"Figure 3. Change in total prison population, by jurisdiction, 2019–2020",
+Jurisdiction,Change in prison population
+California,"-25,359"
+BOP,"-22,960"
+Texas,"-22,523"
+Florida,"-14,982"
+New York,"-9,372"
+Illinois,"-8,530"
+Georgia,"-7,675"
+Pennsylvania,"-6,345"
+New Jersey,"-5,783"
+Ohio,"-5,302"
+Arizona,"-4,710"
+Louisiana,"-4,645"
+North Carolina,"-4,618"
+Kentucky,"-4,530"
+Michigan,"-4,436"
+Virginia,"-4,253"
+Tennessee,"-3,664"
+Wisconsin,"-3,658"
+Colorado,"-3,617"
+Washington,"-3,537"
+Connecticut*,"-3,264"
+Indiana,"-3,236"
+Missouri,"-2,982"
+Alabama,"-2,976"
+Maryland,"-2,972"
+Oklahoma,"-2,571"
+South Carolina,"-2,451"
+Mississippi,"-1,840"
+Minnesota,"-1,834"
+Arkansas,"-1,665"
+Massachusetts,"-1,443"
+Nevada,"-1,418"
+Kansas,"-1,398"
+Idaho,"-1,266"
+Utah,"-1,225"
+New Mexico,"-1,223"
+Hawaii*,"-1,108"
+Delaware*,-982
+Iowa,-975
+West Virginia,-756
+South Dakota,-551
+Rhode Island*,-513
+Maine,-471
+North Dakota,-393
+Wyoming,-392
+Nebraska,-376
+New Hampshire,-339
+Vermont*,-324
+Alaska*,103
+"Note: Estimates show the change in the number of persons imprisoned on December 31, 2019 and December 31, 2020. Jurisdiction refers to the legal authority of state or federal correctional officials over a prisoner, regardless of where the prisoner is held. For jurisdiction-level information, see Jurisdiction notes on the BJS website. As of December 31, 2001, sentenced felons from the District of Columbia were the responsibility of the Federal Bureau of Prisons (BOP). Data for Montana and Oregon could not be compared between 2019 and 2020. See table 4 for counts.",
+*Prisons and jails form one integrated system. Data include total jail and prison populations.,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics, 2019–2020.",

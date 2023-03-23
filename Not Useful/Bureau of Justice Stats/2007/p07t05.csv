@@ -1,0 +1,24 @@
+Bureau of Justice Statistics,,,,,,,,,
+Filename: p07t05.csv,,,,,,,,,
+"Table 5. Sentenced prisoners under state or federal jurisdiction, December 31, 2000, 2006, and 2007",,,,,,,,,
+Report title: Prisoners in 2007 NCJ 224280,,,,,,,,,
+"Data source: National Prisoner Statistics, 1b",,,,,,,,,
+"Authors: Heather C. West and William J. Sabol, Ph.D.",,,,,,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,,,,,
+"Date of version: December 2, 2008",,,,,,,,,
+
+"Table 5. Sentenced prisoners under state or federal jurisdiction, December 31, 2000, 2006, and 2007",,,,,,,,,
+,,,Number of prisoners,,,"Average annual change, 2000-2006",,"Percent change, 2006-2007",
+,,,2000,2006,2007,,,,
+Total/a,,,"1,331,300","1,504,700","1,532,800",2.1,%,1.9,%
+,Male/a,,"1,247,000","1,401,400","1,427,300",2,%,1.8,%
+,,White/b,"401,900","478,800","471,400",3,,-1.5,
+,,Black/b,"532,400","535,100","556,900",0.1,,4.1,
+,,Hispanic or Latino,"242,600","291,000","301,200",3.1,,3.5,
+,Female/a,,"84,300","103,300","105,500",3.4,%,2.1,%
+,,White/b,"33,600","49,200","50,500",6.6,,2.6,
+,,Black/b,"32,200","28,600","29,300",-2,,2.4,
+,,Hispanic or Latino,"13,100","17,500","17,600",4.9,,0.6,
+Note: Includes prisoners serving a sentence of a year or more under state or federal jurisdiction. Estimates updated and may differ from previously published estimates.,,,,,,,,,
+"a/Includes American Indians, Alaska Natives, Asians, Native Hawaiians, other Pacific Islanders, and persons identifying two or more races. ",,,,,,,,,
+b/Excludes persons of Hispanic or Latino origin.,,,,,,,,,

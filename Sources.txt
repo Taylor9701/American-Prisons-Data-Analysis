@@ -4,3 +4,20 @@ https://bjs.ojp.gov/data-collection/national-prisoner-statistics-nps-program#pub
 NY State
 https://catalog.data.gov/dataset/inmates-under-custody-beginning-2008
 
+NACJD
+United States. Bureau of Justice Statistics. National Prisoner Statistics, [United States], 1978-2021. Inter-university Consortium for Political and Social Research [distributor], 2022-12-19. https://doi.org/10.3886/ICPSR38555.v1
+
+CSAT
+https://csat.bjs.ojp.gov/quick-tables
+
+Illinois Data
+https://www.kaggle.com/datasets/rishidamarla/prison-data-from-the-state-of-illinois
+
+
+
+
+
+
+
+
+

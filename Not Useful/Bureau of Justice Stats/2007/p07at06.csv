@@ -1,0 +1,77 @@
+Bureau of Justice Statistics,,,,,
+Filename: p07at06.csv,,,,,
+"Appendix table 6. Imprisonment rates of sentenced prisoners, yearend 2000-2007",,,,,
+Report title: Prisoners in 2007 NCJ 224280,,,,,
+"Data source: National Prisoner Statistics, 1b",,,,,
+"Authors: Heather C. West and William J. Sabol, Ph.D.",,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,
+"Date of version: December 2, 2008",,,,,
+
+"Appendix table 6. Imprisonment rates of sentenced prisoners, yearend 2000-2007",,,,,
+,,"Imprisonment rate, December 31/a",,,"Change, 2000-2007"
+Region and jurisdiction,,2000,2006,2007,Number
+U.S. Total/b,,478,501,506,28
+,Federal,45,58,59,14
+,State/b,432,445,447,15
+Northeast,,320,303,306,-13
+,Connecticut/c,398,392,410,13
+,Maine,129,151,159,29
+,Massachusetts/d,252,243,246,-6
+,New Hampshire,185,207,222,38
+,New Jersey,362,313,308,-54
+,New York,383,326,322,-62
+,Pennsylvania,307,353,365,57
+,Rhode Island/c,197,202,235,38
+,Vermont/c,218,262,260,42
+Midwest,,371,391,393,22
+,Illinois,371,:,:,:
+,Indiana,335,411,426,91
+,Iowa/e,276,296,291,15
+,Kansas,312,318,312,0
+,Michigan,480,511,499,19
+,Minnesota,128,176,181,53
+,Missouri,494,514,506,11
+,Nebraska,228,237,243,15
+,North Dakota,158,214,221,62
+,Ohio,406,428,442,36
+,South Dakota,353,426,413,60
+,Wisconsin,376,393,397,21
+South,,539,547,556,17
+,Alabama,549,595,615,67
+,Arkansas,458,485,502,44
+,Delaware/c,513,488,482,-31
+,District of Columbia,971,~,~,:
+,Florida,462,509,535,74
+,Georgia/e,550,558,563,13
+,Kentucky,373,462,512,139
+,Louisiana,801,846,865,65
+,Maryland,429,396,404,-25
+,Mississippi,688,658,734,46
+,North Carolina,347,360,361,14
+,Oklahoma,685,664,665,-20
+,South Carolina,532,525,524,-8
+,Tennessee,399,423,424,25
+,Texas,730,683,669,-61
+,Virginia,422,477,490,68
+,West Virginia,211,314,333,123
+West,,423,437,438,15
+,Alaska/c,341,462,447,106
+,Arizona/e,515,509,554,39
+,California,474,475,471,-3
+,Colorado,403,469,465,63
+,Hawaii/c,302,338,338,36
+,Idaho,430,480,483,53
+,Montana,348,374,356,7
+,Nevada,518,503,509,-9
+,New Mexico,279,323,313,34
+,Oregon,316,367,369,53
+,Utah,254,246,239,-14
+,Washington,251,271,273,22
+,Wyoming,349,408,394,46
+: Not calculated. Data not provided for 2007. Estimates used to get the U.S. imprisonment rate. See Methodology.,,,,,
+"~Not applicable. As of December 31, 2001, sentenced felons from D.C. were the responsibility of the Federal Bureau of Prisons.",,,,,
+"a/The number of prisoners sentenced to more than 1 year per 100,000 U.S. residents. Based on Census estimates for January 1, 2008.",,,,,
+b/Totals estimated. See Methodology.,,,,,
+c/Prisons and jails form one integrated system. Data include total jail and prison populations.,,,,,
+"d/The imprisonment rate includes an estimated 6,200 inmates sentenced to more than a year, but held in local jails or houses of corrections. ",,,,,
+e/Population based on custody counts.,,,,,

@@ -1,0 +1,51 @@
+"Bureau of Justice Statistics",,,,,,,,,,,,
+"Filename:  p9915.csv",,,,,,,,,,,,
+"Table #:15.  Estimated number of sentenced prisoners under State jurisdiction, ",,,,,,,,,,,,
+"by offense, gender, race, and Hispanic origin, 1998",,,,,,,,,,,,
+"Report title:  Prisoners in 1999 NCJ 183476",,,,,,,,,,,,
+"Data source:  National Prisoner Statistics-1",,,,,,,,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov  202-307-0765",,,,,,,,,,,,
+"Contact:  Allen Beck",,,,,,,,,,,,
+"Date of version:  8/3/00",,,,,,,,,,,,
+,,,,,,,,,,,,
+"Table 15.  Estimated number of sentenced prisoners under State jurisdiction,",,,,,,,,,,,,
+"by offense, gender, race, and Hispanic origin, 1998",,,,,,,,,,,,
+,,,,,,,,,,,,
+"Offenses",,"All",,"Male",,"Female",,"White",,"Black",,"Hispanic"
+,,,,,,,,,,,,
+"          Total",,1141700,,1071400,,70300,,380400,,531100,,194000
+,,,,,,,,,,,,
+"Violent offenses",,545200,,525100,,20100,,180300,,257700,,87600
+"     Murder/a",,134600,,128500,,6100,,42400,,67100,,21500
+"     Manslaughter",,17600,,15800,,1800,,6200,,7100,,3400
+"     Rape",,29600,,29300,,300,,13500,,12100,,2400
+"     Other sexual assault",,71200,,70500,,700,,41400,,17500,,9300
+"     Robbery",,159600,,154600,,5000,,33000,,96700,,25400
+"     Assault",,109500,,104500,,5000,,33800,,48800,,22000
+"     Other violent ",,23100,,21800,,1300,,10000,,8400,,3800
+,,,,,,,,,,,,
+"Property offenses",,242900,,224500,,18500,,104200,,97700,,34000
+"     Burglary",,118000,,114400,,3600,,49900,,48100,,16600
+"     Larceny",,45500,,39600,,5900,,17200,,20500,,6100
+"     Motor vehicle theft",,20100,,19400,,800,,8000,,7300,,4400
+"     Fraud ",,30200,,23300,,6900,,15700,,11100,,2800
+"     Other property",,29100,,27800,,1300,,13300,,10700,,4100
+,,,,,,,,,,,,
+"Drug offenses",,236800,,212900,,23900,,46300,,134800,,51700
+,,,,,,,,,,,,
+"Public-order offenses/b",,113900,,106500,,7500,,49200,,39400,,20100
+,,,,,,,,,,,,
+"Other/unspecified/c",,2800,,2500,,200,,400,,1500,,700
+,,,,,,,,,,,,
+"Note: Data are for inmates with a sentence of ",,,,,,,,,,,,
+"more than 1 year under the jurisdiction of State",,,,,,,,,,,,
+"correctional authorities.  The number of inmates ",,,,,,,,,,,,
+"by offense were estimated using 1997 Survey of ",,,,,,,,,,,,
+"Inmates in State Correctional Facilities and ",,,,,,,,,,,,
+"rounded to the nearest 100.  ",,,,,,,,,,,,
+"a/Includes nonnegligent manslaughter.",,,,,,,,,,,,
+"b/Includes weapons, drunk driving, court ",,,,,,,,,,,,
+"offenses, commercialized vice, morals and ",,,,,,,,,,,,
+"decency charges, liquor law violations, and ",,,,,,,,,,,,
+"other public-order offenses.",,,,,,,,,,,,
+"c/Includes juvenile offenses and unspecified felonies.",,,,,,,,,,,,

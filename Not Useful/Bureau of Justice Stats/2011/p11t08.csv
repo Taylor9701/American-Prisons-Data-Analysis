@@ -1,0 +1,29 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: p11t08.csv,,,,,,,,,,,
+"Table 8. Estimated imprisonment rate of sentenced prisoners under state and federal jurisdiction by sex, race, Hispanic origin, and age, December 31, 2011",,,,,,,,,,,
+Report title: Prisoners in 2011 NCJ 239808,,,,,,,,,,,
+Data source(s): National Prisoner Statistics Program,,,,,,,,,,,
+Author(s): E. Ann Carson and William J. Sabol,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,,
+Date of version: 12/05/2012,,,,,,,,,,,
+ ,,,,,,,,,,,
+"Table 8. Estimated imprisonment rate of sentenced prisoners under state and federal jurisdiction by sex, race, Hispanic origin, and age, December 31, 2011",,,,,,,,,,,
+,,,Male,,,,,Female,,,
+Age group,,Total/a,All male/a,White/b,Black/b,Hispanic,,All female/a,White/b,Black/b,Hispanic
+,Total/c,492,932,478,"3,023","1,238",,65,51,129,71
+18–19,,255,475,166,"1,544",574,,21,14,41,25
+20–24,,850,"1,561",712,"4,702","1,898",,106,85,183,114
+25–29,,"1,182","2,169","1,074","6,883","2,666",,171,144,300,177
+30–34,,"1,230","2,278","1,115","7,517","2,762",,175,151,313,169
+35–39,,"1,089","2,029","1,049","6,603","2,460",,156,136,286,142
+40–44,,919,"1,707",949,"5,450","2,084",,138,110,274,138
+45–49,,777,"1,459",834,"4,604","1,830",,110,85,226,107
+50–54,,523,999,565,"3,257","1,402",,64,46,143,74
+55–59,,307,601,345,"1,999",990,,31,22,66,44
+60–64,,182,364,230,"1,125",685,,15,12,30,23
+65 or older,,62,137,95,409,286,,4,3,7,7
+"Note: Counts based on prisoners with sentences of more than 1 year under the jurisdiction of state or federal correctional officials. Imprisonment rate is the number of prisoners under state or federal jurisdiction with a sentence of more than 1 year per 100,000 U.S. residents. Resident population estimates are from the U.S. Census Bureau for January 1 of the following year.",,,,,,,,,,,
+"a/Includes American Indians, Alaska Natives, Asians, Native Hawaiians, other Pacific Islanders, and persons identifying two or more races.",,,,,,,,,,,
+b/Excludes persons of Hispanic or Latino orgin.,,,,,,,,,,,
+c/Includes persons age 17 or younger.,,,,,,,,,,,
+"Sources: Bureau of Justice Statistics, National Prisoner Statistics Program, 2011; Federal Justice Statistics Program, 2011; National Corrections Reporting Program, 2010; Survey of Inmates in State and Local Correctional Facilities, 2004; and unpublished U.S. Census Bureau January 1 population estimates.",,,,,,,,,,,

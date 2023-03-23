@@ -1,0 +1,53 @@
+Bureau of Justice Statistics,,
+Filename: p17f01.csv,,
+"Figure 1. Imprisonment rates of sentenced prisoners under the jurisdiction of state or federal correctional authorities, per 100,000 U.S. residents, 1978–2017",,
+Report title: Prisoners in 2017  NCJ 252156,,
+"Data source: Bureau of Justice Statistics, National Prisoner Statistics, 1978–2017; and U.S. Census Bureau, post-censal resident population estimates for January 1 of the following calendar year.",,
+"Authors: Jennifer Bronson, Ph.D., and E. Ann Carson, Ph.D., BJS Statisticians",,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,
+Date of version: 4/25/2019,,
+,,
+"Figure 1. Imprisonment rates of sentenced prisoners under the jurisdiction of state or federal correctional authorities, per 100,000 U.S. residents, 1978–2017",,
+,All ages,Age 18 or older
+1978,131,183
+,133,185
+1980,138,191
+,153,211
+,170,232
+,179,243
+,187,254
+1985,201,272
+,216,293
+,230,311
+,246,331
+,274,369
+1990,295,398
+,311,420
+,330,446
+,360,486
+,389,526
+1995,411,556
+,427,577
+,444,599
+,463,623
+,476,640
+2000,470,632
+,470,630
+,477,639
+,483,645
+,487,649
+2005,492,655
+,501,666
+,506,670
+,506,669
+,504,665
+2010,500,656
+,492,644
+,479,626
+,479,623
+,471,611
+2015,459,595
+,450,582
+2017,440,568
+"Note: Jurisdiction refers to the legal authority of state or federal correctional officials over a prisoner, regardless of where the prisoner is held. Counts are based on prisoners with a sentence of more than one year. See appendix table 1 for imprisonment rates.",,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics, 1978–2017; and U.S. Census Bureau, post-censal resident population estimates for January 1 of the following calendar year.",,

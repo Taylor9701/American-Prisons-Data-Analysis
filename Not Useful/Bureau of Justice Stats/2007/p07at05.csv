@@ -1,0 +1,74 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: p07at05.csv,,,,,,,
+"Appendix table 5. Number of sentenced prisoners admitted and released from state or federal jurisdiction, by type, December 31, 2007",,,,,,,
+Report title: Prisoners in 2007 NCJ 224280,,,,,,,
+"Data source: National Prisoner Statistics, 1b",,,,,,,
+"Authors: Heather C. West and William J. Sabol, Ph.D.",,,,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,,,
+"Date of version: December 2, 2008",,,,,,,
+
+"Appendix table 5. Number of sentenced prisoners admitted and released from state or federal jurisdiction, by type, December 31, 2007",,,,,,,
+,,Admissions,,,Releases,,
+Region and jurisdiction,,Total,New court commitments,Parole violators,Total ,Conditional releases,Unconditional releases
+U.S. Total,,"751,593","484,424","253,847","725,402","508,927","200,875"
+,Federal,"53,618","48,691","4,924","48,411","1,545","46,804"
+,State,"697,975","435,733","248,923","676,991","507,382","154,071"
+Northeast,,"73,795","48,340","23,508","71,968","51,983","17,034"
+,Connecticut,"6,982","5,516","1,409","6,056","3,048","2,621"
+,Maine/a,640,412,228,524,318,198
+,Massachusetts,"3,653","3,344",309,"3,273",996,"2,243"
+,New Hampshire,"1,290",615,653,"1,179",960,211
+,New Jersey,"13,791","9,969","3,751","14,358","9,269","4,840"
+,New York,"26,291","16,461","9,724","27,009","23,732","3,006"
+,Pennsylvania,"17,666","10,222","5,753","16,340","11,195","3,161"
+,Rhode Island,"1,120",993,127,884,401,474
+,Vermont,"2,362",808,"1,554","2,345","2,064",280
+Midwest,,"153,906","107,249","43,048","153,616","121,632","30,167"
+,Illinois,/,/,/,/,/,/
+,Indiana,"17,653","14,919","2,734","17,099","15,778","1,264"
+,Iowa,"5,706","3,297",839,"5,718","3,608","1,290"
+,Kansas,"4,849","3,335","1,485","4,966","3,453","1,479"
+,Michigan,"13,330","8,714","4,091","14,685","12,429","1,721"
+,Minnesota,"7,856","5,067","2,781","7,971","6,632","1,326"
+,Missouri,"18,300","9,735","8,541","19,323","17,159","2,077"
+,Nebraska,"2,076","1,798",278,"1,952",993,947
+,North Dakota,"1,028",762,266,977,745,232
+,Ohio,"30,808","26,778","3,829","29,236","15,272","13,812"
+,South Dakota,"3,227","1,229",870,"3,259","2,873",371
+,Wisconsin,"8,592","5,085","3,502","8,903","8,357",506
+South,,"258,223","187,233","67,176","246,343","145,534","92,508"
+,Alabama,"10,708","9,247","1,436","11,079","6,920","4,000"
+,Arkansas,"6,651","4,771","1,821","6,045","5,707",286
+,Delaware,"1,899","1,386",467,"1,905","1,595",216
+,Florida/b,"33,552","32,253",246,"28,705","7,870","19,424"
+,Georgia,"21,134","12,156","8,896","19,119","3,451","15,542"
+,Kentucky/a,"15,359","10,969","4,390","13,819","8,928","4,769"
+,Louisiana,"14,548","9,360","4,952","14,984","13,788","1,053"
+,Maryland,"10,716","6,846","3,866","10,123","9,308",741
+,Mississippi,"9,749","8,523","1,198","8,455","5,105","1,930"
+,North Carolina,"10,834","10,492",337,"10,074","2,968","6,972"
+,Oklahoma,"8,795","6,398","2,397","8,486","5,684","2,703"
+,South Carolina,"9,912","6,596","3,161","9,461","5,044","4,195"
+,Tennessee,"14,535","8,623","5,912","15,537","10,466","5,016"
+,Texas,"72,525","44,641","26,199","73,023","55,557","13,809"
+,Virginia,"13,973","13,214",759,"12,559","1,552","10,920"
+,West Virginia,"3,333","1,758","1,139","2,969","1,591",932
+West,,"212,051","92,911","115,191","205,064","188,233","14,362"
+,Alaska/c,"3,272",/,/,"3,286","1,768","1,348"
+,Arizona,"14,046","11,912","2,134","12,560","9,637","2,270"
+,California,"139,608","46,980","92,628","135,920","133,776","1,925"
+,Colorado,"10,959","6,470","4,486","10,604","9,070","1,347"
+,Hawaii,"1,514",743,771,"1,518",699,298
+,Idaho,"4,055","3,815",240,"3,850","3,309",522
+,Montana,"2,055",678,"1,374","2,176","1,945",215
+,Nevada/a,"6,375","5,642",733,"4,904","3,170","1,734"
+,New Mexico,"4,146","2,404","1,329","4,507","2,791","1,323"
+,Oregon,"5,331","3,615","1,466","5,080","4,835",12
+,Utah,"3,466","1,822","1,644","3,393","2,525",861
+,Washington,"16,478","8,172","8,298","16,488","14,272","2,174"
+,Wyoming,746,658,88,778,436,333
+"Note: Totals exclude transfers, escapes, and AWOLs. Total admissions include new court commitments, returned parole violators, returns from appeals and other admissions. Total releases include conditional releases, unconditional releases, individuals out on appeal or bond, deaths, and other unspecified releases. ",,,,,,,
+ /Not reported. ,,,,,,,
+a/2007 numbers are estimated. See Methodology.,,,,,,,
+b/A change in reporting in 2004 excluded unsentenced prisoners and those sentenced to less than 1 year.,,,,,,,
+c/New reporting systems prevent the disaggregation of admission type.,,,,,,,

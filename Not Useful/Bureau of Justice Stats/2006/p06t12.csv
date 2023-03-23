@@ -1,0 +1,23 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: p06t12,,,,,,,
+"Table 12: Number of sentenced inmates in Federal prison, by most serious offense, 2000, 2003, 2006",,,,,,,
+Report title: Prisoners in 2006 NCJ 219416,,,,,,,
+"Data source: National Prisoner Statistics, 1B",,,,,,,
+"Author(s): William J. Sabol, Heather Couture, and Paige M. Harrison",,,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,,
+Date of version: 12/5/07,,,,,,,
+
+"Table 12. Number of sentenced inmates in Federal prison, by most serious offense, 2000, 2003 and 2006.",,,,,,,
+,,,Number of sentenced inmates in Federal prison,,,,
+Offense,,,2000,2003,2006,"Percent change, 2000-2006",
+,,Total,"131,739","158,426","176,268",33.8,%
+Violent/a,,,"13,740","16,688","16,507",20.1,
+Property,,,"10,135","11,283","10,015",-1.2,
+Drug,,,"74,276","86,972","93,751",26.2,
+Immigration,,,"13,676","16,903","19,496",42.6
+Weapons,,,"10,822","16,377","24,298",124.5
+Other public-order,,,"7,827","9,045","10,542",34.7
+Other/unspecified/b,,,"1,263","1,158","1,659",31.4
+"Note: All data are from the BJS Federal justice database, are for September 30, and are based on all sentenced inmates, regardless of sentence length.  See Appendix table 13 for detailed offense distributions.",,,,,,
+"a/Includes murder, non-negligent manslaughter, and manslaughter by negligence.",,,,,,
+b/Includes offenses not classified.,,,,,,

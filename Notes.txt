@@ -7,16 +7,17 @@ Private Prisons, 										'99-'21
 
 
 ================= Expand if Possible ============================
-Change % by Jurisdiction, 								'20-'21
-General Jurisdiction Breakdown, 						'11-'21
+Change % by Jurisdiction, 								'19-'21
+General Jurisdiction Breakdown, 						'10-'21
 Demographics for Male & Female							'21
 Reasons for Admissions, 								'20-21
 Age Spread, 											'20-'21
-Imprisonment Rates per 100k, 							'21
 Incarcerated Minors, 									'20-'21
-Sex, Race, and Most Violent Crime, 						'20
-Citizenship Status excluding Jails,						'21
+State - Sex, Race, and Most Violent Crime, 				'19-'20
+Citizenship Status excluding Jails,						'20-21
 Data by Fed/State										'20-'21
+
+by sex and jurisdiction									'19-21
 
 ================= Files Gone Through ============================
 2021
@@ -39,7 +40,6 @@ stt02
 stt03
 stt08
 stt10
-stt13
 stt15
 stt17
 stt22

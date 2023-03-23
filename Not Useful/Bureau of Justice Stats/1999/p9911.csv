@@ -1,0 +1,84 @@
+"Bureau of Justice Statistics",,,,,,,,,
+"Filename:  p9911.csv",,,,,,,,,
+"Table #:11.  Reported Federal and State prison capacities, yearend 1999",,,,,,,,,
+"Report title:  Prisoners in 1999 NCJ 183476",,,,,,,,,
+"Data source:  National Prisoner Statistics-1",,,,,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov  202-307-0765",,,,,,,,,
+"Contact:  Allen Beck",,,,,,,,,
+"Date of version:  8/3/00",,,,,,,,,
+,,,,,,,,,
+"Table 11.  Reported Federal and State prison capacities, yearend 1999",,,,,,,,,
+,,,,,,,,,
+,,,,,,"Custody population",,,"Population"
+,,"Type of capacity measure",,,,"as a percent of ",,,"covered in"
+"Region and",,,"Opera-",,,"Highest","Lowest",,"capacity"
+"jurisdiction ",,"Rated","tional  ","Design",,"capacity/a","capacity/a",,"measures"
+,,,,,,,,,
+"   Federal",,90075,"    ...   ","    ...   ",,132,132,,"    ...   "
+,,,,,,,,,
+"Northeast",,,,,,,,,
+"   Connecticut/b",,"    ...   ","    ...   ","    ...   ",,"    ...   ","    ...   ",,"    ...   "
+"   Maine",,1460,1639,1460,,100,112,,1639
+"   Massachusetts",,"    ...   ","    ...   ",9162,,122,122,,10632
+"   New Hampshire",,2036,2064,1944,,109,116,,2247
+"   New Jersey",,"    ...   ","    ...   ",17282,,143,143,,24648
+"   New York",,61265,66384,53815,,108,133,,71809
+"   Pennsylvania",,25228,32384,25228,,113,145,,36457
+"   Rhode Island",,3724,3724,3862,,76,79,,2926
+"   Vermont",,1140,1200,1023,,95,111,,1135
+,,,,,,,,,
+"Midwest",,,,,,,,,
+"   Illinois",,32313,32313,27529,,138,162,,44660
+"   Indiana",,15383,17944,"    ...   ",,96,111,,17149
+"   Iowa",,6219,6219,6219,,116,116,,7232
+"   Kansas",,8860,"    ...   ","    ...   ",,97,97,,8569
+"   Michigan",,"    ...   ",47178,"    ...   ",,98,98,,46316
+"   Minnesota",,5664,5786,5786,,98,100,,5681
+"   Missouri",,"    ...   ",27416,"    ...   ",,95,95,,26160
+"   Nebraska",,"    ...   ",2963,2371,,120,150,,3566
+"   North Dakota",,1005,952,1005,,91,96,,914
+"   Ohio",,37245,"    ...   ","    ...   ",,125,125,,46619
+"   South Dakota",,"    ...   ",2545,"    ...   ",,96,96,,2446
+"   Wisconsin",,"    ...   ",10951,"    ...   ",,139,139,,15238
+,,,,,,,,,
+"South",,,,,,,,,
+"   Alabama",,21800,21800,21800,,97,97,,21227
+"   Arkansas/c",,10426,10426,10426,,100,100,,10388
+"   Delaware",,"    ...   ",4206,3192,,"    ...   ","    ...   ",,"    ...   "
+"   District of Columbia",,5424,5424,"    ...   ",,85,85,,4628
+"   Florida",,80491,73325,54252,,82,121,,65823
+"   Georgia",,"    ...   ",43808,"    ...   ",,89,89,,39090
+"   Kentucky",,11947,11707,7421,,93,150,,11125
+"   Louisiana",,19174,19363,"    ...   ",,83,84,,16094
+"   Maryland",,"    ...   ",23213,"    ...   ",,97,97,,22598
+"   Mississippi/c",,"    ...   ",17827,"    ...   ",,102,102,,18247
+"   North Carolina",,27145,"    ...   ",27145,,109,109,,29683
+"   Oklahoma/c",,"    ...   ",22594,"    ...   ",,99,99,,22393
+"   South Carolina",,"    ...   ",23565,22177,,89,95,,21016
+"   Tennessee",,17522,17127,"    ...   ",,96,98,,16812
+"   Texas/c",,155924,152805,155924,,97,99,,151613
+"   Virginia",,31787,31787,31787,,91,91,,28854
+"   West Virginia",,3059,2880,2950,,94,100,,2880
+,,,,,,,,,
+"West",,,,,,,,,
+"   Alaska",,2603,2691,2603,,94,97,,2529
+"   Arizona",,"    ...   ",24310,24310,,101,101,,24594
+"   California",,"    ...   ",154467,80272,,101,194,,156066
+"   Colorado/d",,"    ...   ",11230,9424,,116,138,,12995
+"   Hawaii",,"    ...   ",3406,2481,,102,141,,3486
+"   Idaho",,3182,3956,3182,,97,120,,3834
+"   Montana",,"    ...   ",1400,896,,100,156,,1397
+"   Nevada/c",,9379,"    ...   ",6948,,99,134,,9313
+"   New Mexico/c",,"    ...   ",5592,5504,,92,93,,5124
+"   Oregon",,"    ...   ",9550,"    ...   ",,99,99,,9427
+"   Utah",,"    ...   ",4418,4584,,115,119,,5257
+"   Washington",,8862,12036,12036,,119,161,,14283
+"   Wyoming",,1231,1243,1047,,101,120,,1258
+,,,,,,,,,
+" . . Data not available.",,,,,,,,,
+"--Not calculated. (See Jurisdiction notes.) ",,,,,,,,,
+"a/Population counts are based on the number of inmates held in facilities operated by the ",,,,,,,,,
+"jurisdiction.  Excludes inmates held in local jails, in other States, or in private facilities.",,,,,,,,,
+"b/Connecticut no longer reports capacity because of a law passed in 1995.",,,,,,,,,
+"c/Includes capacity of private and contract facilities and inmates housed in them.",,,,,,,,,
+"d/Excludes capacity of county facilities and inmates housed in them.",,,,,,,,,

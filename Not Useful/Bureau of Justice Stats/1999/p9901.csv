@@ -1,0 +1,35 @@
+"Bureau of Justice Statistics",,,,,,,,
+"Filename:  p9901.csv",,,,,,,,
+"Table #1.  Number of persons held in State or Federal prisons  or in local jails, 1990-99",,,,,,,,
+"Report title:  Prisoners in 1999 NCJ 183476",,,,,,,,
+"Data source:  National Prisoner Statistics-1",,,,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov  202-307-0765",,,,,,,,
+"Contact:  Allen Beck",,,,,,,,
+"Date of version:  8/3/00",,,,,,,,
+,,,,,,,,
+"Table 1.  Number of persons held in State or Federal prisons  or in local jails, 1990-99",,,,,,,,
+,,,,,,,,
+,,"Prisoners in custody  ",,"Inmates held",,,,
+,"Total inmates ","December 31",,"in local jails",,"Incarceration  ",,"U.S. resident"
+"Year","in custody","Federal","State","on June 30/a",,"rate /b",,"population"
+,,,,,,,,
+1990,1148702,58838,684544,405320,,458,,250689
+,,,,,,,,
+1995,1585586,89538,989004,507044,,601,,264022
+1996,1646020,95088,1032440,518492,,618,,266495
+1997,1743643,101755,1074809,567079,,648,,268924
+1998,1816931,110793,1113676,592462,,669,,271628
+"1999 (revised)/c",1890837,125682,1159212,605943,,690,,274051
+"1999 (comparable)/c",1869169,125682,1137544,605943,,682,,274051
+"Percent change,",,,,,,,,
+"1998-99/b",2.9,13.4,2.1,2.3,,,,
+,,,,,,,,
+"Annual average  increase",,,,,,,,
+"1990-99",5.7%,8.8%,6.0%,4.6%,,,,
+,,,,,,,,
+"Note:  Jail counts for 1994-99 exclude persons supervised outside of a jail facility.  ",,,,,,,,
+"a/Includes prisoners held in local jails because of prison crowding. ",,,,,,,,
+"b/Number of prison and jail inmates per 100,000 U.S. residents at yearend.",,,,,,,,
+"c/In 1999, 15 States expanded their reporting criteria to include inmates held in privately ",,,,,,,,
+"operated correctional facilities.  For comparisons with previous years, the State count ",,,,,,,,
+"1,137,544 and the total count 1,869,169 should be used.",,,,,,,,
